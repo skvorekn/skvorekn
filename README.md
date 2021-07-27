@@ -2,17 +2,39 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/googlecloud/googlecloud-original.svg" alt="googlecloudplatform" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="sql" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/tensorflow/tensorflow-original.svg" alt="slack" width="40" height="40"/> </a>
-  <a href="https://slack.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" > 
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
+</a>
+  <a href="https://github.com/" > 
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github">
+</a>
+  <a href="https://aws.amazon.com/"> 
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices">
+  </a>
+  <a href="https://cloud.google.com/"> 
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloudplatform">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode">
+  </a>
+  <a href="https://www.r-project.org/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
+  </a> 
+  <a href="https://www.oracle.com/database/technologies/appdev/sql.html">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="sql">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="slack">
+  </a>
+  <a href="https://slack.com/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack">
+  </a>
+  <a href="https://www.linux.org/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux">
+  </a>
+  <a href="https://www.docker.com/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker">
+  </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
