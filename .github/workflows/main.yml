@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           COMMIT_MESSAGE: chore - update README with wakatime stats
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
