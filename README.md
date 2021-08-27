@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-```text
-Week: 20 August, 2021 - 26 August, 2021
-
-Python   4 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.53 % 
-JSON     17 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.07 % 
-```
-<!--END_SECTION:waka-->
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" > 
@@ -45,6 +36,15 @@ JSON     17 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker">
   </a> 
 </p>
+
+<!--START_SECTION:waka-->
+```text
+Week: 20 August, 2021 - 26 August, 2021
+
+Python   4 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.53 % 
+JSON     17 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.07 % 
+```
+<!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
