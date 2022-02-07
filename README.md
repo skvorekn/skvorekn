@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 Python     5 hrs 57 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   69.99 % 
 Makefile   1 hr 22 mins    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.22 % 
