@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
 Text   2 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.77 %
 Bash   57 mins         ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.15 %
