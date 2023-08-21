@@ -11,11 +11,11 @@
   <a href="https://aws.amazon.com/"> 
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices">
   </a>
-  <a href="https://cloud.google.com/"> 
-    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloudplatform">
-  </a>
   <a href="https://code.visualstudio.com/">
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode">
+  </a>
+  <a href="https://docs.pytest.org/en/7.4.x/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest">
   </a>
   <a href="https://www.r-project.org/">
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
@@ -23,18 +23,30 @@
   <a href="https://www.oracle.com/database/technologies/appdev/sql.html">
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="sql">
   </a>
-  <a href="https://www.tensorflow.org/">
-    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="slack">
+  <a href="https://jupyter.org/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter">
   </a>
-  <a href="https://slack.com/">
-    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack">
+  <a href="https://www.atlassian.com/software/jira">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira">
+  </a>
+  <a href="https://www.terraform.io/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform">
   </a>
   <a href="https://www.linux.org/">
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux">
   </a>
+  <a href="https://www.postgresql.org/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql">
+  </a> 
   <a href="https://www.docker.com/">
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker">
   </a> 
+  <a href="https://cloud.google.com/"> 
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloudplatform">
+  </a>
+    <a href="https://www.tensorflow.org/">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="slack">
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
