@@ -49,16 +49,6 @@
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 September 2023 - To: 28 September 2023
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.twitter.com/kelseyskvoretz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
