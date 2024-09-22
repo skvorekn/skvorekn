@@ -9,7 +9,7 @@
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github">
 </a>
   <a href="https://aws.amazon.com/"> 
-    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices">
+    <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices">
   </a>
   <a href="https://code.visualstudio.com/">
     <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode">
