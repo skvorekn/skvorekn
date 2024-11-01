@@ -1,9 +1,9 @@
 ```mermaid
 graph TD;
-    websites@{ shape: processes, label: "Websites"}-- scrape data -->processor[Clean and validate data]
+    websites@{ shape: processes, label: "Websites"}-- scrape data -->processor@{ shape: rect, label: "Validate and \nstandardize data"}
     files@{ shape: docs, label: "Raw .csv, \n.xlsx, .pdf files" }-- extract data -->processor
     source_x@{ shape: processes, label: "Other data sources"}-- extract data -->processor
-    processor-->calculator[Run calculations and build relations]
+    processor-->calculator@{ shape: rect, label: "Run calculations \nand build relations"}
     tester[Test suite]-.-processor
     tester-.-calculator
     calculator-->database[(Database)]-->app{User-facing application}
@@ -11,7 +11,7 @@ graph TD;
 
    subgraph legend [Color Legend]
        sourceLegend[Source Data]
-       programLegend[Python Program]
+       programLegend@{ shape: rect, label: "Cloud-hosted \nPython Program"}
        useLegend[Data Storage]
    end
 
