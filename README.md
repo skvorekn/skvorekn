@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Kelsey, an independent fractional data scientist at [DataGenie Consulting](datagenieconsulting.com). Please see a summary of my work [here](portfolio/README.md).
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" > 
